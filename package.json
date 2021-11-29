@@ -11,6 +11,7 @@
     "view-example": "make view-example",
     "dev": "make dev",
     "prepare": "make build",
+    "postinstall": "make build",
     "validate": "npm ls",
     "flow": "flow"
   },
